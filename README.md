@@ -1,5 +1,5 @@
 # Curriculum Vitae
-La idea de este repositorio es concervar la información para crear un curriculum web que se pueda actualizar en línea y que pueda ser mostrado como un sitio público.
+La idea de este repositorio es conservar la información para crear un curriculum web que se pueda actualizar en línea y que pueda ser mostrado como un sitio público.
 
 ## En este sitio se recomienda:
 * Mejorar las ideas propuestas
