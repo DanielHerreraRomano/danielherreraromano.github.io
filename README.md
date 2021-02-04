@@ -3,7 +3,7 @@ La idea de este repositorio es concervar la información para crear un curriculu
 
 ## En este sitio se recomienda:
 * Mejorar las ideas propuestas
-* Prponer flujos de información
+* Proponer flujos de información
 * Ser respetuoso
 
 Y como un amable recordatorio: **Este readme.md es una prueba**.
