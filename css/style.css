@@ -56,7 +56,7 @@ body {
     /* text-decoration: dashed; */
   }
   h1 strong {
-    color: #026fff;
+    color: whitesmoke;
   }
   h2 {
     color: #026fff;
@@ -68,7 +68,7 @@ body {
   }
   
   .hero {
-    height: 300px;
+    /* height: 300px; */
     /* background-image: url('../images/hero.jpg'); */
     background-color: #1C3144;
     /* background-size: 500px 300px; */
@@ -76,12 +76,18 @@ body {
     /* background-position-x: right; */
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    /* justify-content: space-between; */
   
   }
   
   .hero-image{
-    object-fit: cover;
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    object-fit: cover; 
   }
   
   
