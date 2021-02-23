@@ -27,6 +27,7 @@ valores */
 /* gris claro = #626262 */
 /* background gris = #1b2127 */
 /* celeste = #026fff */
+/*Azul = #1C3144 */
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
@@ -147,7 +148,7 @@ body {
   }
   
   .header {
-    background-color: #1b2127;
+    background-color: #1C3144;
     color: white;
     display: flex;
     height: 70px;
