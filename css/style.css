@@ -29,6 +29,10 @@ valores */
 /* celeste = #026fff */
 /*Azul = #1C3144 */
 
+html {
+  font-size: 62.5%;
+}
+
 body {
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
@@ -46,7 +50,7 @@ body {
   }
   
   h1 {
-    font-size: 40px;
+    font-size: 3rem;
     line-height: 1.5;
     letter-spacing: -.2px;
     color: white;
@@ -59,11 +63,11 @@ body {
     color: whitesmoke;
   }
   h2 {
-    color: #026fff;
+    color: #1C3144;
     text-transform: uppercase;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 2.5rem;
     margin-bottom: 40px;
   }
   
@@ -81,8 +85,8 @@ body {
   }
   
   .hero-image{
-    height: 300px;
-    width: 300px;
+    height: 10rem;
+    width: 10rem;
     background-repeat: no-repeat;
     background-position: 50%;
     border-radius: 50%;
@@ -93,7 +97,7 @@ body {
   
   .portfolio {
     background: #fafafa;
-    padding: 20px;
+    padding: 1.8rem;
     /* background: red; */
   }
   
@@ -139,18 +143,18 @@ body {
   } */
   
   .project-title {
-    font-size: 30px;
+    font-size: 2rem;
     margin-top: 0;
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
   }
   
   
   .project-details {
-    width: 500px;
+    width: 50%;
   } 
 
   .project-imageContainer {
-    width: 500px;
+    width: 50%;
   }
   
   .header {
@@ -259,7 +263,7 @@ body {
   }
   
   .event-url {
-    color: #056fff;
+    color: #1C3144;
     border: 1px solid;
     padding: 5px 20px;
     text-decoration: none;
@@ -267,7 +271,7 @@ body {
   }
   
   .contact {
-    background-color: #056fff;
+    background-color: #1C3144;
     color: white;
     height: 150px;
     display: flex;
